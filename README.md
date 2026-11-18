@@ -33,3 +33,5 @@
   </tr>
 </table>
 
+<picture> <img width="1000" height="150" alt="2026_11_17_0wh_Kleki" src="https://github.com/user-attachments/assets/081fd053-a5f4-4463-94f8-a427e025850a" />
+
