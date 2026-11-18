@@ -6,7 +6,7 @@
 
 <div  align="left">
 
-<picture><img align="left" width="340" height="240" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/a1e5536c-ab53-434c-a81e-90e1aafb0f2a" />
+<picture><img align="left" width="400" height="250" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/a1e5536c-ab53-434c-a81e-90e1aafb0f2a" />
 
 
 <div  align="center">
