@@ -15,11 +15,12 @@
    <br>
 
 
- Finney ou Finn
+   Finney ou Finn
+     <br>
+ W2I . mostly offtab
   <br>
 
-[ata book](https://yellowmu1qs.atabook.org/)    n    [Strawpage](https://sendmethestars.straw.page/)  <br>
-[Profile](https://kuro.rip/ozolog1) <br>
+[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://sendmethestars.straw.page/)  <br>
 
  ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
 
