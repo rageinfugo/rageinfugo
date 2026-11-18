@@ -11,7 +11,7 @@
 <br>
 <div  align="left">
 
-　　　　[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zeyada&pause=1000&color=802B7C90&vCenter=true&width=435&lines=I+see+myself+in+the+reflection;+of+people's+eyes+;Realising+that;what+they+see+may+not+even+be+close+;to+the+image+I+see+in+myself+;And+I+think;I+might+actually+be+more+afraid;To+let+my+own+self+down;+than+anything+else)](https://git.io/typing-svg)
+　　　[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zeyada&pause=1000&color=802B7C90&vCenter=true&width=435&lines=I+see+myself+in+the+reflection;+of+people's+eyes+;Realising+that;what+they+see+may+not+even+be+close+;to+the+image+I+see+in+myself+;And+I+think;I+might+actually+be+more+afraid;To+let+my+own+self+down;+than+anything+else)](https://git.io/typing-svg)
    <br>
 
 
