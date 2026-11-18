@@ -4,7 +4,7 @@
 
 <div  align="left">
 
-<picture><img align="left" width="390" height="300" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/a1e5536c-ab53-434c-a81e-90e1aafb0f2a" />
+<picture><img align="left" width="394" height="320" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/e2df49c9-eead-4535-ba14-e3a77494c95e" />
 
 
 
