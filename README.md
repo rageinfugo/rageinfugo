@@ -15,14 +15,15 @@
    <br>
 
 
-   Finney ou Finn
+　 　　　Finney ou Finn
      <br>
- W2I . mostly offtab
+　　　 W2I . mostly offtab
   <br>
 
-[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://sendmethestars.straw.page/)  <br>
+　　　[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://sendmethestars.straw.page/)  <br>
 
- ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
+　　　　　 ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
+     <br>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ipnfjbxkvgxa7vfd2ul7tjdmta&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=f91f89&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
