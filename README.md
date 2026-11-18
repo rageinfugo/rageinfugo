@@ -4,12 +4,12 @@
 
 <div  align="left">
 
-<picture><img align="left" width="391" height="320" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/e2df49c9-eead-4535-ba14-e3a77494c95e" />
+<picture><img align="left" width="500" height="410" alt="2026_11_17_0wm_Kleki" src="https://github.com/user-attachments/assets/e2df49c9-eead-4535-ba14-e3a77494c95e" />
 
 
 
 <br>
-<div  align="center">
+<div  align="left">
 
 　　[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zeyada&pause=1000&color=802B7C90&vCenter=true&width=435&lines=I+see+myself+in+the+reflection;+of+people's+eyes+;Realising+that;what+they+see+may+not+even+be+close+;to+the+image+I+see+in+myself+;And+I+think;I+might+actually+be+more+afraid;To+let+my+own+self+down;+than+anything+else)](https://git.io/typing-svg)
    <br>
