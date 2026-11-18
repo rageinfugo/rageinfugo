@@ -25,10 +25,11 @@
 　　　　　 ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
      <br>
 
-
+　　　　<picture><img align="center" width="120" height="100" alt="2026_11_18_00m_Kleki" src="https://github.com/user-attachments/assets/24b52a98-ffb9-42d6-bafb-6f6019d0773b" />
+     <br>
+     
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ipnfjbxkvgxa7vfd2ul7tjdmta&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=f91f89&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
     </th>
   </tr>
 </table>
-
 
