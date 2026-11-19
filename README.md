@@ -22,7 +22,7 @@
 
 　　　[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://fugoanger.straw.page/)  <br>
 
-　　　　　 ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
+　　　　　 ![7452sb](https://hits.sh/github.com/razordoppio/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
      <br>
 
 　　　　<picture><img align="center" width="120" height="100" alt="2026_11_18_00m_Kleki" src="https://github.com/user-attachments/assets/24b52a98-ffb9-42d6-bafb-6f6019d0773b" />
