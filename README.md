@@ -20,7 +20,7 @@
 　　　 W2I . mostly offtab
   <br>
 
-　　　[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://sendmethestars.straw.page/)  <br>
+　　　[ata book](https://razordiavolo.atabook.org/)    n    [Strawpage](https://fugoanger.straw.page/)  <br>
 
 　　　　　 ![7452sb](https://hits.sh/github.com/Yellowmugqs/hits.svg?label=views&color=000000&labelColor=#c82ad5)<br>
      <br>
